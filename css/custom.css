@@ -1,0 +1,116 @@
+*{margin: 0;padding: 0;box-sizing: border-box;font-family: "Poppins";}
+
+.decoration{text-decoration: none;}
+.bg-navy-blue{background-color: #06273E;}
+p{margin: 0px;}
+
+.f-14{font-size: 14px;}
+.button1{background-color: #1382CE; padding: 12px 23px; }
+.button1:hover{background-color: black; color:#06273E; }
+
+.ul-li .nav-link.active{background-color: transparent !important; color: #1382CE !important;}
+
+.nav-link.active{color: #1382CE !important;}
+.nav-link{color: #000000; font-weight: 500 !important;}
+.nav-link:hover{color: #1382CE;}
+.owl-blog .item{padding: 20px; height: 100%;}
+.owl-blog .owl-stage{display: flex;}
+
+
+.bg-sec1{background-image: url(../img/sec-1bg.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+.text-orange{color: #F15B26;}
+.f-80{font-size: 80px;}
+
+.button2{background-color: #F15B26; border-radius: 5px;padding: 15px 30px;color: #ffffff;}
+.py-80{padding: 80px 0px; }
+
+.text-gray{color: #363D41;}
+.text-darkblue{color: #06273E;}
+.round-100{border-radius: 0px 0px 100px 100px;}
+
+
+.position-relative{position: relative;}
+.position-absolute{position: absolute; bottom: -100px;; right: 10px;}
+
+.f-45{font-size: 45px;}
+.f-70{font-size: 70px;}
+
+.bg-sec3{background-image: url(../img/sec-3.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+.round0-30{border-radius: 0px 30px;}
+.nav-link.active{background-color: #1382CE !important; color: white !important; border-radius: 5px !important;}
+.sec4 .nav-link{border-top: 1px #E8E8E8 solid !important;
+    border-bottom: 1px #E8E8E8 solid !important;
+    border-radius: 0 !important;}
+.nav-tabs{border-bottom: 0 !important;}
+
+.gradiant-card{background: linear-gradient(180deg, rgba(6, 39, 62, 0) 13.83%, #00121f 100%);
+    opacity: 0.9;border-radius: 0px 0px 10px 10px; height: 100%; width: 100%;}
+
+.position-relative{position: relative;}
+.position-absolute{position: absolute; bottom: 10px; left: 20px;}
+.position-absolute1{position: absolute; bottom: 0px; left: 0px;}
+
+.pl-20{padding-left: 20px;}
+
+.bg-sec5{background-image: url(../img/bg-sec5.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+.icon-yellow{color: #F8B84E;}
+.pr-20{padding-right: 20px;}
+
+.bg-sec7{background-image: url(../img/sec7-bg.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+.pb-250{padding-bottom: 250px;}
+
+.position-absolute2{position: absolute; bottom: -250px; left: 120px;}
+.pt-240{padding-top: 240px;}
+.position-absolute3{position: absolute; bottom: -20px; left: 20px;}
+.button3{padding: 5px 15px; background-color: #F15B26; color: white;}
+
+.round-45{border-radius: 0px 45px;}
+.bg-blue{background-color: #1382CE;}
+.position-absolute4{position: absolute; bottom: 0px; left: 200px;}
+
+.w-40{width: 40%;}
+.w-60{width: 60%;}
+
+.pb10 li{padding-bottom: 10px;}
+
+/* 
+.position-relative{position: relative;}
+.position-absolute{position: absolute; bottom: 15px; left: 25px;}
+p{margin: 0;}
+
+.gradiant{background : linear-gradient(180deg, rgba(6, 39, 62, 0) 13.83%, #00121f 100%);
+    opacity: 0.9; }
+.position-absolute1{position: absolute;top: 0; left: 0; height: 100%; width: 100%;} */
+
+@media only screen and (max-width: 1400px){
+}
+
+@media only screen and (max-width: 1200px){
+}
+
+@media only screen and (max-width: 992px){
+}
+
+@media only screen and (max-width: 768px){
+}
+
+@media only screen and (max-width: 576px){
+}
+
+/* link              :- https://demo1.toptelmultimedia.com/wp-login.php
+Username          :- Demo1
+Password          :- xifCBYYydW%aKwSIto */
